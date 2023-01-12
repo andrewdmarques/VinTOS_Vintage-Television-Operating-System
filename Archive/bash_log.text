@@ -1,0 +1,13 @@
+[00f34780] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libEGL warning: DRI2: failed to authenticate
+[01391580] mmal_codec decoder: VCSM init succeeded: CMA
+libEGL warning: DRI2: failed to authenticate
+[73b0bbc8] mmal_xsplitter vout display error: Failed to open Xsplitter:opengles2 module
+[73b0bbc8] mmal_xsplitter vout display error: Failed to open Xsplitter:mmal_vout module
+mmal: mmal_vc_component_create: failed to create component 'vc.ril.hvs' (1:ENOMEM)
+mmal: mmal_component_create_core: could not create component 'vc.ril.hvs' (1)
+mmal: mmal_vc_component_create: failed to create component 'vc.ril.hvs' (1:ENOMEM)
+mmal: mmal_component_create_core: could not create component 'vc.ril.hvs' (1)
+mmal: mmal_vc_component_create: failed to create component 'vc.ril.hvs' (1:ENOMEM)
+mmal: mmal_component_create_core: could not create component 'vc.ril.hvs' (1)
+[01391580] main decoder error: buffer deadlock prevented

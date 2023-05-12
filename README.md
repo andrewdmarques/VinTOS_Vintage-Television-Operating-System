@@ -1,8 +1,8 @@
 # Vintage
 
-#**Television**
+# **Television**
 
-#**Operating**
+# **Operating**
 
 #**System**
 

@@ -1,10 +1,10 @@
-## Vintage
+# **Vintage**
 
-## **Television**
+# **Television**
 
-## **Operating**
+# **Operating**
 
-#**System**
+# **System**
 
 Contact: Andrew D. Marques
 
@@ -14,7 +14,7 @@ Version: 7
 
 Updated: 4/13/2023
 
-##**Introduction**
+## **Introduction**
 
 This manual serves as a comprehensive guide for using and maintaining the television set. While it covers the hardware build process, the primary focus is on the accompanying software, Vintage Television Operating System (VINTOS). VINTOS is an operating system designed to "reanimate" vintage tube television sets for use in modern applications.
 
@@ -36,7 +36,7 @@ A video describing the finished product can be found at this link: <https://phot
 
 Together, this modified cabinet and VINTOS software provide an immersive viewing experience that simulates interactive vintage television.
 
-##**Quickstart Guide**
+## **Quickstart Guide**
 
 **Operating Steps**:
 
@@ -126,7 +126,7 @@ Together, this modified cabinet and VINTOS software provide an immersive viewing
 -   **Channel directories:** The channel directories should be named with a "00_name" format, where "00" is a two-digit number and "name" can be anything without spaces or special characters. Non-video files should not be placed in these channel directories. All channels
 -   **Wifi:** The computer is configured to connect to the internet, but it requires a wifi dongle (USB connector). For internet security reasons, and to prevent issues with updating popups, this should be left disconnected. If a wifi dongle is not included in your package, you can purchase one. It is recommended to use the following dongle: TP-Link TL-WN725N N150 150Mbps Wireless Nano USB WiFi Network Adapter Dongle.
 
-##**Diagrams**![](media/10d09d62132669a40958c95fa41fbfe4.png)
+## **Diagrams**![](media/10d09d62132669a40958c95fa41fbfe4.png)
 
 The main electrical wiring diagram shown above can be used as a reference when troubleshooting if connections are not made to the appropriate devices.
 
@@ -154,7 +154,7 @@ For proper organization, all mp4 files should be placed in their respective chan
 -   **schedule_\#.csv**: CSV file that is the program schedule. There are n number of program schedules and they are numbers schedule_0.csv, schedule_1.csv, etc. It includes information such as channel, the program on the channel, the file location of the program on that channel, the program length in seconds, the Location: /home/andrewdmarques/Desktop/TV/Bin/Program-Schedule/schedule_0.csv
     -   ![](media/be0dce41f27e4ed2ab84f69652469d25.png)
 
-##**Build Documentation**
+## **Build Documentation**
 
 1/4/2023
 
@@ -364,7 +364,7 @@ The television is on display in the Tucker Sales Center section of the AACA Hers
     3.  Set the screen to never sleep (settings\>power\>screen blank set to never)
 9.  Prepare the Arduino by uploading the potentiometer reader script. Follow popup window instructions from the Arduino software.
 
-##**Build Costs**
+## **Build Costs**
 
 **Total: \$433.35**
 
@@ -386,7 +386,7 @@ The television is on display in the Tucker Sales Center section of the AACA Hers
 -   \$13.77 Black & Decker Timer with 7 day setting <https://www.amazon.com/dp/B094PFJ5JW?psc=1&ref=ppx_yo2ov_dt_b_product_details>
 -   \$14.83 GE 6-outlet surge protector <https://www.amazon.com/dp/B00DOMYL24?psc=1&ref=ppx_yo2ov_dt_b_product_details>
 
-##**Troubleshooting: General**
+## **Troubleshooting: General**
 
 Your TV is not working correctly? Start with this checklist!
 
@@ -401,7 +401,7 @@ Your TV is not working correctly? Start with this checklist!
 5.  Check that the system has power cycled to it at least 1x time per day. This is best done with an outlet timer that will cut power to the cabinet without human intervention.
 6.  Check that the main computer is powered on with its power button. DO NOT use the main computer power button to cycle power. Once it is pressed on, it should not be pressed again.
 
-##**Troubleshooting: Specific**
+## **Troubleshooting: Specific**
 
 **5A breaker keeps cutting power:**
 
@@ -533,17 +533,17 @@ Your TV is not working correctly? Start with this checklist!
     -   This is usually caused by being unplugged for more than a few weeks.
     -   See the "Long-term Storage" section of the Quickstart Guide for instructions on resetting the internal clock.
 
-##**Disclaimer**
+## **Disclaimer**
 
 The television cabinet, electronics, and Vintage Television Operating System (VINTOS) described in this manual is provided "as is" with limited warranty at the discretion of the creator (Andrew D. Marques). This discretionary limited warranty includes but is not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. In addition, the user may return the device at any time. Replacement of the device can be discussed at the discretion of the creator.
 
 The creator strongly recommends bypassing the optional internal power switch and using a UL certified, grounded surge protector. The creator cannot be held liable for any damages arising from the use of this product, including but not limited to direct, indirect, incidental, or consequential damages. The user assumes full responsibility for any risks associated with the use of this product. By accepting and using this product, the user agrees to these terms and conditions.
 
-##**About The Creator**
+## **About The Creator**
 
 Andrew D. Marques is a virologist at the University of Pennsylvania's Perelman School of Medicine. Some of his favorite pastimes include spending time with his wife and family, building projects, programming, film photography, amateur birding, cycling, maintaining and driving cars, and restoring antique electronics by finding ways to incorporate them into modern life. Some of his fondest memories are the drives he takes with his wife in their 1969 Volkswagen Beetle. At a young age, he has been interested in taking a holistic perspective of history: where historical and current events are closely connected, and having a physical and mental connection to our past can better shape our present and future.
 
-##**Acknowledgements**
+## **Acknowledgements**
 
 The success of this project was made possible by the assistance of numerous friends, whose contributions I would like to acknowledge. I extend a special thank you to Scott Sherrill-Mix, Carter Merenstein, and Alex McFarland for their invaluable troubleshooting help with programming. I am also grateful to Aoife Doto for reproducing the front control labels and Orlando Ferreira for editing this manual.
 

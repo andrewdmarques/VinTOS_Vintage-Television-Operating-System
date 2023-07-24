@@ -2,14 +2,6 @@
 
 VinTOS: Vintage Television Operating System is designed to run on a Linux computer and act as the driving operating system in restored vintage television projects.
 
-Contact: Andrew D. Marques
-
-Website: www.AndrewDMarques.com
-
-Version: 7
-
-Updated: 4/13/2023
-
 ## **Introduction**
 
 This manual serves as a comprehensive guide for using and maintaining the television set. While it covers the hardware build process, the primary focus is on the accompanying software, Vintage Television Operating System (VINTOS). VINTOS is an operating system designed to "reanimate" vintage tube television sets for use in modern applications.

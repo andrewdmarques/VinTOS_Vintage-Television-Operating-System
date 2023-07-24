@@ -1,10 +1,6 @@
-# **Vintage**
+# VinTOS
 
-# **Television**
-
-# **Operating**
-
-# **System**
+VinTOS: Vintage Television Operating System is designed to run on a Linux computer and act as the driving operating system in restored vintage television projects.
 
 Contact: Andrew D. Marques
 

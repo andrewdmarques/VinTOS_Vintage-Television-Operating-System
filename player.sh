@@ -8,7 +8,7 @@ do
 		rm -r /home/andrewdmarques/Desktop/TV/Bin/Scripts/player-on.txt
 		FILE=/home/andrewdmarques/Desktop/TV/Bin/Scripts/temp.py
 		if [ -f "$FILE" ]; then
-			chmod +x /home/andrewdmarques/Desktop/TV/Bin/Scrripts/temp.py
+			chmod +x /home/andrewdmarques/Desktop/TV/Bin/Scripts/temp.py
 			# export DISPLAY=HDMI-1
 			python3 /home/andrewdmarques/Desktop/TV/Bin/Scripts/temp.py > /home/andrewdmarques/Desktop/TV/Bin/Log-Files/bash_log.text 2>&1
 			# su -c /home/andrewdmarques/Desktop/TV/Bin/Scripts/temp.sh andrewdmarques > /home/andrewdmarques/Desktop/TV/bash_log.text 2>&1
